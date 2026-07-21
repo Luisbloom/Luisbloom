@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://luisbloom.github.io/avatar.png" width="110" style="border-radius:50%" alt="Luis Miguel" />
+<img src="https://lmpablos.pages.dev/avatar.png" width="110" style="border-radius:50%" alt="Luis Miguel" />
 
 <h1>Luis Miguel Pablos Orge</h1>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-luisbloom.github.io-A855F7?style=for-the-badge&logo=github-pages&logoColor=white)](https://luisbloom.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lmpablos.pages.dev-A855F7?style=for-the-badge&logo=github-pages&logoColor=white)](https://lmpablos.pages.dev/)
 
 </div>
 
@@ -65,9 +65,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisbloom&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisbloom&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbloom&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbloom&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&cache_seconds=3600)
 
 </div>
 
