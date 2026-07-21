@@ -53,11 +53,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**F1 Live Timing**](https://f1livetiming-app.vercel.app/) | Live Formula 1 race data · Deployed on Vercel | React · TS |
-| [**Jartiland Studios**](https://jartiland.es) | Creative studio website | JS · CSS |
-| [**Eva Onso**](https://evaonso.com) | Professional artist portfolio | HTML · CSS · JS |
-| [**Jerez Fusión**](https://jerezfusion.com) | Restaurant & gastronomic events | HTML · CSS · JS |
-| [**Pueblo Duerme**](https://github.com/Luisbloom/Pueblo-Duerme) | Text adventure game | Python |
+| [**Jartiland Studios**](https://jartiland.es) | Minecraft gaming studio · web, plugins & mods · team | Java · C# · React |
+| [**Jerez Fusión**](https://jerezfusion.com) | Gastronomic events web platform · team | Python · FastAPI · MySQL |
+| [**Archivazo**](https://archivazo.com) | Document management system · internship @ Inferencia | Python · FastAPI · MongoDB |
+| [**F1 Live Timing**](https://f1livetiming-app.vercel.app/) | Live F1 race data app · in development | React · TS · OpenF1 API |
+| [**Eva Onso**](https://evaonso.com) | Client professional website · team | HTML · CSS · JS |
+| [**Pueblo Duerme**](https://github.com/Luisbloom/Pueblo-Duerme) | Hidden roles game (Werewolf/Mafia) · 1st year DAM | Java · JavaFX · Maven |
 
 ---
 
