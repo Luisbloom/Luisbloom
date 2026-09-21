@@ -16,13 +16,14 @@
 
 ### About me
 
-- 🎓 **DAM · 2nd Year** — 1st year avg: **8.75 / 10**
-- 💼 Web Developer @ [**CITED**](https://cited.es) · [evaonso.com](https://evaonso.com) · [jerezfusión.com](https://jerezfusion.com)
+- 🎓 DAM student @ [**CITED**](https://cited.es) · 2nd year · 1st year avg **8.75 / 10**
+- 🧑‍💻 DAM internship @ [**Inferencia Integral**](https://inferencia.es) · Jan – May 2026 · worked on [Archivazo](https://archivazo.com)
+- 🌐 Team web projects at CITED · [evaonso.com](https://evaonso.com) · [jerezfusión.com](https://jerezfusion.com)
 - 🎮 Developer @ [**Jartiland Studios**](https://jartiland.es) · web, Minecraft plugins & mods, Unity game · team
-- 🧑‍💻 DAM internship @ [**Inferencia Integral**](https://inferencia.es) · Jan – May 2026
 - 🚀 Currently building [**PitWall**](https://github.com/Luisbloom/pitwall) — F1 25 telemetry desktop app · early stage
-- 🔐 Curious about cybersecurity · BIG school certified
+- 🤖 Learning to build with AI & agents · 🔐 cybersecurity basics · BIG school certified
 - 📍 Jerez de la Frontera, Cádiz · Spain
+- 📫 Open to junior / internship opportunities
 
 ---
 
