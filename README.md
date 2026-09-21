@@ -24,7 +24,7 @@ I'm a DAM student from Jerez de la Frontera who learns best by building things. 
 - 🎮 Developer @ [**Jartiland Studios**](https://jartiland.es) · web, Minecraft plugins & mods, Unity game · team
 - 🚀 Currently building [**PitWall**](https://github.com/Luisbloom/pitwall) — F1 25 telemetry desktop app · early stage
 - 🤖 Learning to build with AI & agents · 🔐 cybersecurity basics · BIG school certified
-- 🏎️ F1 fan (hence the telemetry projects) · 🎮 games & Minecraft modding
+- 🏎️ Big F1 fan · 🎮 into games and Minecraft modding
 - 📍 Jerez de la Frontera, Cádiz · Spain
 - 📫 Open to junior / internship opportunities
 
