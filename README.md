@@ -4,7 +4,7 @@
 
 <h1>Luis Miguel Pablos Orge</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=A855F7&center=true&vCenter=true&width=400&lines=Python+%26+Docker+dev;React+%2B+TypeScript+dev;Java+%26+C%23+builder;Future+Full+Stack+dev)](https://luisbloom.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=A855F7&center=true&vCenter=true&width=400&lines=Python+%26+Docker+dev;Java+%26+C%23+builder;Future+Full+Stack+dev)](https://luisbloom.github.io)
 
 <br/>
 
@@ -18,7 +18,8 @@
 
 - 🎓 **DAM · 2nd Year** — 1st year avg: **8.75 / 10**
 - 💼 Web Developer @ [**CITED**](https://cited.es) · [evaonso.com](https://evaonso.com) · [jerezfusión.com](https://jerezfusion.com)
-- 🚀 Currently building [**F1 Live Timing**](https://f1livetiming-app.vercel.app/) — live race data app
+- 🧑‍💻 DAM internship @ [**Inferencia Integral**](https://inferencia.es) · Jan – May 2026
+- 🚀 Currently building [**PitWall**](https://github.com/Luisbloom/pitwall) — F1 25 telemetry desktop app · early stage
 - 🔐 Curious about cybersecurity · BIG school certified
 - 📍 Jerez de la Frontera, Cádiz · Spain
 
@@ -29,8 +30,6 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
@@ -56,7 +55,7 @@
 | [**Jartiland Studios**](https://jartiland.es) | Minecraft gaming studio · web, plugins & mods · team | Java · C# · React |
 | [**Jerez Fusión**](https://jerezfusion.com) | Gastronomic events web platform · team | Python · FastAPI · MySQL |
 | [**Archivazo**](https://archivazo.com) | Document management system · internship @ Inferencia | Python · FastAPI · MongoDB |
-| [**F1 Live Timing**](https://f1livetiming-app.vercel.app/) | Live F1 race data app · in development | React · TS · OpenF1 API |
+| [**PitWall**](https://github.com/Luisbloom/pitwall) | F1 25 telemetry & race engineering desktop app · early stage | C++ · React |
 | [**Eva Onso**](https://evaonso.com) | Client professional website · team | HTML · CSS · JS |
 | [**Pueblo Duerme**](https://github.com/Luisbloom/Pueblo-Duerme) | Hidden roles game (Werewolf/Mafia) · 1st year DAM | Java · JavaFX · Maven |
 
