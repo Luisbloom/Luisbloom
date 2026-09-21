@@ -58,7 +58,6 @@
 | [**Archivazo**](https://archivazo.com) | Document management system · internship @ Inferencia | Python · FastAPI · MongoDB |
 | [**PitWall**](https://github.com/Luisbloom/pitwall) | F1 25 telemetry & race engineering desktop app · early stage | C++ · React |
 | [**Eva Onso**](https://evaonso.com) | Client professional website · team | HTML · CSS · JS |
-| [**Pueblo Duerme**](https://github.com/Luisbloom/Pueblo-Duerme) | Hidden roles game (Werewolf/Mafia) · 1st year DAM | Java · JavaFX · Maven |
 
 ---
 
