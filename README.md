@@ -6,10 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=A855F7&center=true&vCenter=true&width=400&lines=Python+%26+Docker+dev;Java+%26+C%23+builder;Future+Full+Stack+dev)](https://luisbloom.github.io)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lmpablos.pages.dev-A855F7?style=for-the-badge&logo=github-pages&logoColor=white)](https://lmpablos.pages.dev/)
-
 </div>
 
 ---
